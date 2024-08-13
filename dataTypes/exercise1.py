@@ -1,0 +1,10 @@
+#String
+#Boolean
+#tuple
+#float
+#list
+#int
+#range
+#set
+#NoneType
+#dict
